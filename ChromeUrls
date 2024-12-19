@@ -172,6 +172,7 @@ chrome://smb-credentials-dialog
 chrome://smb-share-dialog
 chrome://suggest-internals
 chrome://support-tool
+chrome://sync-confirmation
 chrome://sync-internals
 chrome://sys-internals
 chrome://system
@@ -198,7 +199,6 @@ chrome://webui-gallery
 chrome://webuijserror
 chrome-untrusted://boca-app
 chrome-untrusted://camera-app
-chrome-untrusted://companion-side-panel.top-chrome
 chrome-untrusted://compose
 chrome-untrusted://crosh
 chrome-untrusted://data-sharing

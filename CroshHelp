@@ -20,6 +20,9 @@ stats sockets:  show TCP connect and DNS statistics by Android Apps.
 stats traffic:  show traffic packet statistics by Android Apps.
 stats idle   :  show system idle stats of Android.
 tracing      :  enable or disable tracing ARCVM from the host.
+top:            show resource information snapshot on Android.
+cpuinfo:        show CPU usage on Android.
+meminfo:        show memory usage on Android.
 
 autest [--scheduled]  
   Trigger an auto-update against a **test** update server.
@@ -521,6 +524,8 @@ set <name> [local-ip <ip1>[,<ip2>]] [private-key] [mtu <mtu>] [dns <ip1>[,<ip2>]
     - `private-key` and `preshared-key` take no parameters. If they are used, this command
       will prompt you to change the key (or remove the key) via stdin, to avoid leaving
       them in the history of shell.
+    Note: If there is no IPv6 configuration (in ip, dns, or allowed-ips), IPv6 will be
+    blocked if the shortest prefix length in allowed-ips is less than 8.
 connect <name>
     Connect to the configured WireGuard service with name <name>.
 disconnect <name>
