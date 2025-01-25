@@ -77,7 +77,6 @@ chrome://histograms
 chrome://history
 chrome://history-clusters-internals
 chrome://history-clusters-side-panel.top-chrome
-chrome://identity-internals
 chrome://indexeddb-internals
 chrome://inspect
 chrome://internals
@@ -87,8 +86,6 @@ chrome://interstitials
 chrome://kerberos-in-browser
 chrome://kiosk-vision-internals
 chrome://launcher-internals
-chrome://lens-overlay
-chrome://lens-search-bubble
 chrome://linux-proxy-config
 chrome://local-files-migration
 chrome://local-state
@@ -187,8 +184,8 @@ chrome://ukm
 chrome://urgent-password-expiry-notification
 chrome://usb-internals
 chrome://user-actions
+chrome://user-education-internals
 chrome://vc-background
-chrome://vc-tray-tester
 chrome://version
 chrome://view-cert
 chrome://vm
@@ -206,13 +203,13 @@ chrome-untrusted://demo-mode-app
 chrome-untrusted://eche-app
 chrome-untrusted://file-manager
 chrome-untrusted://focus-mode-player
-chrome-untrusted://hats
 chrome-untrusted://help-app
 chrome-untrusted://help-app-kids-magazine
 chrome-untrusted://lens
 chrome-untrusted://lens-overlay
 chrome-untrusted://mako
 chrome-untrusted://media-app
+chrome-untrusted://ntp-microsoft-auth
 chrome-untrusted://os-feedback
 chrome-untrusted://print
 chrome-untrusted://privacy-sandbox-dialog
@@ -220,8 +217,8 @@ chrome-untrusted://projector
 chrome-untrusted://projector-annotator
 chrome-untrusted://read-anything-side-panel.top-chrome
 chrome-untrusted://scalable-iph-debug
+chrome-untrusted://scanner-feedback
 chrome-untrusted://terminal
-List of chrome://internals pages
 chrome://internals/session-service
 For Debug
 The following pages are for debugging purposes only. Because they crash or hang the renderer, they're not linked directly; you can type them into the address bar if you need them.

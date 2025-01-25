@@ -6,7 +6,10 @@ Usage: arc
     proxy <url> |
     list [ networks ] |
     stats [ sockets | traffic | idle ]
-    tracing [on | off]
+    tracing [on | off] |
+    top |
+    cpuinfo |
+    meminfo
   ]
   where NETWORK := [ wifi | eth | ethernet | cell | cellular | vpn ]
   If NETWORK is not specified, the default network is used.
@@ -119,7 +122,7 @@ display_debug
     diagnose Usage: display_debug diagnose
       Give a sequence of steps to assist in debugging display issues.
 
-dlc_install <dlc-id>
+dlc_install <dlc-id>|--audio
   Trigger a DLC installation against a **test** update server.
 
 The **test** update server will serve signed DLC payloads which will only
