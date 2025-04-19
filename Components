@@ -1,12 +1,12 @@
 コンポーネント
 コンポーネント (27)
-growth-campaigns - バージョン: 1.0.20250318.0
+growth-campaigns - バージョン: 1.0.20250408.0
 ステータス - 最新
 アップデートを確認
 Autofill States Data - バージョン: 2024.7.12.235938
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1259
+PKI Metadata - バージョン: 1288
 ステータス - 最新
 アップデートを確認
 App Provisioning - バージョン: 1708983019
@@ -15,7 +15,7 @@ App Provisioning - バージョン: 1708983019
 Subresource Filter Rules - バージョン: 9.55.0
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2025.1.3.1202
+Crowd Deny - バージョン: 2025.3.26.1143
 ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
@@ -24,13 +24,13 @@ Smart Dim - バージョン: 20210201.1
 Certificate Error Assistant - バージョン: 7
 ステータス - 最新
 アップデートを確認
-Related Website Sets - バージョン: 2025.2.25.0
+Related Website Sets - バージョン: 2025.4.2.0
 ステータス - 最新
 アップデートを確認
 Amount Extraction Heuristic Regexes - バージョン: 3
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 9632
+CRLSet - バージョン: 9714
 ステータス - 最新
 アップデートを確認
 Iwa Key Distribution - バージョン: 2024.12.12.0
@@ -39,10 +39,10 @@ Iwa Key Distribution - バージョン: 2024.12.12.0
 Hyphenation - バージョン: 120.0.6050.0
 ステータス - 最新
 アップデートを確認
-Third-Party Cookie Deprecation Metadata - バージョン: 2025.3.18.1
+Third-Party Cookie Deprecation Metadata - バージョン: 2025.4.16.1
 ステータス - 最新
 アップデートを確認
-Safety Tips - バージョン: 3065
+Safety Tips - バージョン: 3068
 ステータス - 最新
 アップデートを確認
 File Type Policies - バージョン: 67
@@ -51,25 +51,25 @@ File Type Policies - バージョン: 67
 Trust Token Key Commitments - バージョン: 2025.1.17.1
 ステータス - 最新
 アップデートを確認
-MEI Preload - バージョン: 1.0.7.1652906823
+MEI Preload - バージョン: 1.0.7.1744928549
 ステータス - 最新
 アップデートを確認
 Probabilistic Reveal Tokens - バージョン: 2025.2.18.1
-ステータス - 更新完了
+ステータス - 最新
 アップデートを確認
 Origin Trials - バージョン: 1.0.0.17
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 491
+Optimization Hints - バージョン: 501
 ステータス - 最新
 アップデートを確認
 Cookie Readiness List - バージョン: 2024.11.26.0
 ステータス - 最新
 アップデートを確認
-Privacy Sandbox Attestations - バージョン: 2025.3.12.0
+Privacy Sandbox Attestations - バージョン: 2025.4.9.0
 ステータス - 最新
 アップデートを確認
-OnDeviceHeadSuggest - バージョン: 20250310.736693048.14
+OnDeviceHeadSuggest - バージョン: 20250330.743742949.14
 ステータス - 最新
 アップデートを確認
 Widevine Content Decryption Module - バージョン: 4.10.2662.3

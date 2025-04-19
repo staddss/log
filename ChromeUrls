@@ -69,6 +69,7 @@ chrome://help-app
 chrome://histograms
 chrome://history
 chrome://history-clusters-side-panel.top-chrome
+chrome://history-side-panel.top-chrome
 chrome://indexeddb-internals
 chrome://inspect
 chrome://internals
@@ -213,6 +214,7 @@ chrome://on-device-internals
 chrome://optimization-guide-internals
 chrome://profile-internals
 chrome://safe-browsing
+chrome://traces
 chrome://traces-internals
 chrome://tracing
 chrome://ukm
