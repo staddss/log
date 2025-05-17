@@ -21,6 +21,7 @@ chrome://bookmarks
 chrome://bookmarks-side-panel.top-chrome
 chrome://borealis-credits
 chrome://borealis-installer
+chrome://borealis-motd
 chrome://camera-app
 chrome://cast-feedback
 chrome://certificate-manager
@@ -101,6 +102,7 @@ chrome://network
 chrome://new-tab-page
 chrome://new-tab-page-third-party
 chrome://newtab
+chrome://newtab-footer
 chrome://notification-tester
 chrome://ntp-tiles-internals
 chrome://office-fallback
@@ -120,6 +122,7 @@ chrome://power
 chrome://predictors
 chrome://print
 chrome://print-management
+chrome://privacy-sandbox-base-dialog
 chrome://privacy-sandbox-dialog
 chrome://privacy-sandbox-internals
 chrome://private-aggregation-internals
