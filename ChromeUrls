@@ -96,7 +96,6 @@ chrome://metrics-internals
 chrome://mobilesetup
 chrome://multidevice-internals
 chrome://multidevice-setup
-chrome://nacl
 chrome://nearby
 chrome://nearby-internals
 chrome://net-export
@@ -204,6 +203,7 @@ chrome-untrusted://terminal
 Internal Debugging Page URLs
 Internal debugging pages are currently disabled.
 
+chrome://actor-internals
 chrome://commerce-internals
 chrome://data-sharing-internals
 chrome://discards
