@@ -4,6 +4,7 @@ chrome://accessibility
 chrome://accessory-update
 chrome://account-manager-error
 chrome://account-migration-welcome
+chrome://actor-overlay
 chrome://add-supervision
 chrome://app-disabled
 chrome://app-install-dialog
@@ -30,6 +31,7 @@ chrome://chrome-signin
 chrome://chrome-urls
 chrome://cloud-upload
 chrome://color-internals
+chrome://comments-side-panel.top-chrome
 chrome://compare
 chrome://components
 chrome://confirm-password-change
@@ -80,7 +82,6 @@ chrome://internals
 chrome://internet-config-dialog
 chrome://internet-detail-dialog
 chrome://kerberos-in-browser
-chrome://kiosk-vision-internals
 chrome://launcher-internals
 chrome://linux-proxy-config
 chrome://local-files-migration
@@ -173,8 +174,10 @@ chrome://vc-background
 chrome://version
 chrome://view-cert
 chrome://vm
+chrome://watermark
 chrome://web-app-internals
 chrome://webrtc-internals
+chrome://webui-browser
 chrome-untrusted://boca-app
 chrome-untrusted://camera-app
 chrome-untrusted://compose
@@ -204,6 +207,8 @@ Internal Debugging Page URLs
 Internal debugging pages are currently disabled.
 
 chrome://actor-internals
+chrome://autofill-ml-internals
+chrome://color-pipeline-internals
 chrome://commerce-internals
 chrome://data-sharing-internals
 chrome://discards
@@ -222,6 +227,7 @@ chrome://on-device-internals
 chrome://optimization-guide-internals
 chrome://profile-internals
 chrome://safe-browsing
+chrome://tab-strip-internals
 chrome://traces
 chrome://traces-internals
 chrome://tracing

@@ -1,12 +1,12 @@
 コンポーネント
 コンポーネント (28)
-growth-campaigns - バージョン: 1.0.20250711.3
+growth-campaigns - バージョン: 1.0.20250814.0
 ステータス - 最新
 アップデートを確認
 Autofill States Data - バージョン: 2025.6.13.84507
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1380
+PKI Metadata - バージョン: 1411
 ステータス - 最新
 アップデートを確認
 App Provisioning - バージョン: 1708983019
@@ -15,7 +15,7 @@ App Provisioning - バージョン: 1708983019
 Subresource Filter Rules - バージョン: 9.58.0
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2025.7.20.1141
+Crowd Deny - バージョン: 2025.8.21.781
 ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
@@ -24,16 +24,16 @@ Smart Dim - バージョン: 20210201.1
 Certificate Error Assistant - バージョン: 7
 ステータス - 最新
 アップデートを確認
-Related Website Sets - バージョン: 2025.4.2.0
+Related Website Sets - バージョン: 2025.7.24.0
 ステータス - 最新
 アップデートを確認
 Amount Extraction Heuristic Regexes - バージョン: 3
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 9933
-ステータス - 最新
+CRLSet - バージョン: 9991
+ステータス - 更新完了
 アップデートを確認
-Iwa Key Distribution - バージョン: 2025.7.24.1
+Iwa Key Distribution - バージョン: 2025.8.7.1
 ステータス - 最新
 アップデートを確認
 Chrome App Deprecation Allowlist - バージョン: 0.0.0.0
@@ -42,37 +42,37 @@ Chrome App Deprecation Allowlist - バージョン: 0.0.0.0
 Hyphenation - バージョン: 120.0.6050.0
 ステータス - 最新
 アップデートを確認
-Third-Party Cookie Deprecation Metadata - バージョン: 2025.7.25.1
+Third-Party Cookie Deprecation Metadata - バージョン: 2025.8.24.1
 ステータス - 更新完了
 アップデートを確認
-Safety Tips - バージョン: 3076
+Safety Tips - バージョン: 3079
 ステータス - 最新
 アップデートを確認
 File Type Policies - バージョン: 67
 ステータス - 最新
 アップデートを確認
-Trust Token Key Commitments - バージョン: 2025.5.15.1
+Trust Token Key Commitments - バージョン: 2025.8.22.1
 ステータス - 最新
 アップデートを確認
 MEI Preload - バージョン: 1.0.7.1744928549
 ステータス - 最新
 アップデートを確認
-Probabilistic Reveal Tokens - バージョン: 2025.2.18.1
+Probabilistic Reveal Tokens - バージョン: 2025.8.19.0
 ステータス - 最新
 アップデートを確認
 Origin Trials - バージョン: 1.0.0.17
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 526
+Optimization Hints - バージョン: 532
 ステータス - 最新
 アップデートを確認
 Cookie Readiness List - バージョン: 2024.11.26.0
 ステータス - 最新
 アップデートを確認
-Privacy Sandbox Attestations - バージョン: 2025.6.16.0
+Privacy Sandbox Attestations - バージョン: 2025.7.18.0
 ステータス - 最新
 アップデートを確認
-OnDeviceHeadSuggest - バージョン: 20250617.774246486.14
+OnDeviceHeadSuggest - バージョン: 20250803.789100898.14
 ステータス - 最新
 アップデートを確認
 Widevine Content Decryption Module - バージョン: 4.10.2662.3

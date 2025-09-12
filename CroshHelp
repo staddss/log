@@ -463,7 +463,7 @@ verify_ro
   cable, if supported by the device.
 
 USAGE: vmc [
-     start [--enable-gpu] [--enable-dgpu-passthrough] [--enable-big-gl] [--enable-virtgpu-native-context] [--vtpm-proxy] [--enable-audio-capture] [--extra-disk PATH] [--dlc ID] [--tools-dlc ID] [--kernel PATH] [--initrd PATH] [--rootfs PATH] [--vm-type <TERMINA | ARC_VM | PLUGIN_VM | BOREALIS | BRUSCHETTA | BAGUETTE>] [--no-start-lxd] [--writable-rootfs] [--kernel-param PARAM]... [--oem-string STRING]... [--bios PATH] [--pflash PATH] [--bios-dlc ID] [--timeout PARAM] [--no-shell] [--user NAME] [--user-uid PARAM] [--user-group PARAM]... [--help-start] <vm name>
+     start [--enable-gpu] [--enable-dgpu-passthrough] [--enable-big-gl] [--enable-virtgpu-native-context] [--vtpm-proxy] [--enable-audio-capture] [--extra-disk PATH] [--dlc ID] [--tools-dlc ID] [--kernel PATH] [--initrd PATH] [--rootfs PATH] [--vm-type <CROSTINI | ARC_VM | BOREALIS | BRUSCHETTA | BAGUETTE>] [--no-start-lxd] [--writable-rootfs] [--kernel-param PARAM]... [--oem-string STRING]... [--bios PATH] [--pflash PATH] [--bios-dlc ID] [--timeout PARAM] [--no-shell] [--user NAME] [--user-uid PARAM] [--user-group PARAM]... [--help-start] <vm name>
   |  stop <vm name>
   |  launch <main descriptor> [<descriptor>...]
   |  create [-p] [--size SIZE] <vm name> [<source media> [<removable storage name>]] [-- additional parameters]
