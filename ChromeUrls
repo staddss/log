@@ -11,7 +11,6 @@ chrome://app-install-dialog
 chrome://app-service-internals
 chrome://arc-overview-tracing
 chrome://arc-power-control
-chrome://assistant-optin
 chrome://attribution-internals
 chrome://audio
 chrome://autofill-internals
@@ -29,6 +28,7 @@ chrome://certificate-manager
 chrome://chrome
 chrome://chrome-signin
 chrome://chrome-urls
+chrome://class-tools-remote-display
 chrome://cloud-upload
 chrome://color-internals
 chrome://comments-side-panel.top-chrome
@@ -180,6 +180,7 @@ chrome://webrtc-internals
 chrome://webui-browser
 chrome-untrusted://boca-app
 chrome-untrusted://camera-app
+chrome-untrusted://class-tools-remote-display
 chrome-untrusted://compose
 chrome-untrusted://crosh
 chrome-untrusted://data-sharing
