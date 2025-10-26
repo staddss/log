@@ -472,7 +472,7 @@ USAGE: vmc [
   |  destroy [-y] <vm name>
   |  disk-op-status <command UUID>
   |  export [-d] [-f] <vm name> <file name> [<removable storage name>]
-  |  import [-p] <vm name> <file name> [<removable storage name>]
+  |  import [--vm-type <vm type>] <vm name> <file name> [<removable storage name>]
   |  inspect-backup <file name> [<removable storage name>]
   |  resize <vm name> <size>
   |  list
