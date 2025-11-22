@@ -136,6 +136,7 @@ chrome://proximity-auth
 chrome://quota-internals
 chrome://read-later.top-chrome
 chrome://recorder-app
+chrome://reload-button.top-chrome
 chrome://reset-password
 chrome://sandbox
 chrome://sanitize
