@@ -12,7 +12,6 @@ chrome://app-service-internals
 chrome://arc-overview-tracing
 chrome://arc-power-control
 chrome://attribution-internals
-chrome://audio
 chrome://autofill-internals
 chrome://blob-internals
 chrome://bluetooth-internals
@@ -68,6 +67,8 @@ chrome://flags
 chrome://floating-workspace
 chrome://focus-mode-media
 chrome://gcm-internals
+chrome://glic
+chrome://glic-fre
 chrome://gpu
 chrome://graduation
 chrome://growth-internals
@@ -126,7 +127,6 @@ chrome://power
 chrome://predictors
 chrome://print
 chrome://print-management
-chrome://privacy-sandbox-base-dialog
 chrome://privacy-sandbox-dialog
 chrome://privacy-sandbox-internals
 chrome://private-aggregation-internals
@@ -203,7 +203,6 @@ chrome-untrusted://privacy-sandbox-dialog
 chrome-untrusted://projector
 chrome-untrusted://projector-annotator
 chrome-untrusted://read-anything-side-panel.top-chrome
-chrome-untrusted://scalable-iph-debug
 chrome-untrusted://scanner-feedback
 chrome-untrusted://terminal
 Internal Debugging Page URLs
@@ -220,6 +219,7 @@ chrome://family-link-user-internals
 chrome://history-clusters-internals
 chrome://infobar-internals
 chrome://interstitials
+chrome://legion-internals
 chrome://local-state
 chrome://location-internals
 chrome://media-router-internals
@@ -229,6 +229,7 @@ chrome://omnibox
 chrome://on-device-internals
 chrome://optimization-guide-internals
 chrome://profile-internals
+chrome://regional-capabilities-internals
 chrome://safe-browsing
 chrome://tab-strip-internals
 chrome://traces

@@ -1,22 +1,22 @@
 コンポーネント
-コンポーネント (29)
-growth-campaigns - バージョン: 1.0.20251027.0
+コンポーネント (28)
+growth-campaigns - バージョン: 1.0.20251202.3
 ステータス - 最新
 アップデートを確認
 Autofill States Data - バージョン: 2025.6.13.84507
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1497
-ステータス - 更新完了
+PKI Metadata - バージョン: 1527
+ステータス - 最新
 アップデートを確認
 App Provisioning - バージョン: 1708983019
 ステータス - 最新
 アップデートを確認
-Subresource Filter Rules - バージョン: 9.62.0
+Subresource Filter Rules - バージョン: 9.64.0
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2025.11.17.121
-ステータス - 更新完了
+Crowd Deny - バージョン: 2025.12.15.121
+ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
 ステータス - 最新
@@ -30,10 +30,10 @@ Related Website Sets - バージョン: 2025.7.24.0
 Amount Extraction Heuristic Regexes - バージョン: 4
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 10161
-ステータス - 更新完了
+CRLSet - バージョン: 10227
+ステータス - 最新
 アップデートを確認
-Iwa Key Distribution - バージョン: 2025.10.24.1
+Iwa Key Distribution - バージョン: 2025.12.16.1
 ステータス - 最新
 アップデートを確認
 Chrome App Deprecation Allowlist - バージョン: 0.0.0.0
@@ -45,7 +45,7 @@ Hyphenation - バージョン: 120.0.6050.0
 Third-Party Cookie Deprecation Metadata - バージョン: 2025.10.7.1
 ステータス - 最新
 アップデートを確認
-Safety Tips - バージョン: 3087
+Safety Tips - バージョン: 3089
 ステータス - 最新
 アップデートを確認
 File Type Policies - バージョン: 144.0.7512.1
@@ -57,13 +57,10 @@ Trust Token Key Commitments - バージョン: 2025.9.29.1
 MEI Preload - バージョン: 1.0.7.1744928549
 ステータス - 最新
 アップデートを確認
-Probabilistic Reveal Tokens - バージョン: 2025.8.19.0
-ステータス - 最新
-アップデートを確認
 Origin Trials - バージョン: 1.0.0.19
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 572
+Optimization Hints - バージョン: 591
 ステータス - 最新
 アップデートを確認
 Cookie Readiness List - バージョン: 2024.11.26.0
