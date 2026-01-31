@@ -43,7 +43,6 @@ chrome://crashes
 chrome://credits
 chrome://crostini-credits
 chrome://crostini-installer
-chrome://crostini-upgrader
 chrome://cryptohome
 chrome://customize-chrome-side-panel.top-chrome
 chrome://debug-webuis-disabled
@@ -136,7 +135,6 @@ chrome://proximity-auth
 chrome://quota-internals
 chrome://read-later.top-chrome
 chrome://recorder-app
-chrome://reload-button.top-chrome
 chrome://reset-password
 chrome://sandbox
 chrome://sanitize
@@ -169,6 +167,8 @@ chrome://tab-search.top-chrome
 chrome://tab-strip.top-chrome
 chrome://terms
 chrome://topics-internals
+chrome://traces
+chrome://traces-internals
 chrome://translate-internals
 chrome://urgent-password-expiry-notification
 chrome://usb-internals
@@ -180,6 +180,7 @@ chrome://watermark
 chrome://web-app-internals
 chrome://webrtc-internals
 chrome://webui-browser
+chrome://webui-toolbar.top-chrome
 chrome-untrusted://boca-app
 chrome-untrusted://camera-app
 chrome-untrusted://class-tools-remote-display
@@ -232,8 +233,6 @@ chrome://profile-internals
 chrome://regional-capabilities-internals
 chrome://safe-browsing
 chrome://tab-strip-internals
-chrome://traces
-chrome://traces-internals
 chrome://tracing
 chrome://ukm
 chrome://user-actions
