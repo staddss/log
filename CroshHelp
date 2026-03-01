@@ -538,11 +538,10 @@ disconnect <name>
   Utility to configure and control a WireGuard VPN service
 
 crosh> 
-arc                     connectivity            enroll_status           gesture_prop            memory_test             rollback                storage_test_1          top                     verify_ro
-autest                  cras                    evtest                  help                    modem                   route                   storage_test_2          tracepath               vmc
-battery_firmware        diag                    exit                    help_advanced           p2p_update              set_apn                 swap                    u2f_flags               vmstat
-battery_test            display_debug           ff_debug                insert_coin             packet_capture          set_arpgw               sync                    uname                   vsh
-bt_console              dlc_install             force_activate_fips     ipaddrs                 ping                    set_time                syslog                  upload_crashes          wifi_power_save
-ccd_pass                dlc_list                free                    live_in_a_coal_mine     printscan_debug         set_wake_on_lan         systrace                upload_devcoredumps     wireguard
-chaps_debug             dmesg                   generate_firmware_dump  meminfo                 rlz                     shell                   time_info               uptime
+arc                     chaps_debug             dlc_list                force_activate_fips     insert_coin             p2p_update              route                   storage_test_1          time_info               upload_devcoredumps     wifi_power_save
+autest                  connectivity            dmesg                   free                    ipaddrs                 packet_capture          set_apn                 storage_test_2          top                     uptime                  wireguard
+battery_firmware        cras                    enroll_status           generate_firmware_dump  live_in_a_coal_mine     ping                    set_arpgw               swap                    tracepath               verify_ro
+battery_test            diag                    evtest                  gesture_prop            meminfo                 printscan_debug         set_time                sync                    u2f_flags               vmc
+bt_console              display_debug           exit                    help                    memory_test             rlz                     set_wake_on_lan         syslog                  uname                   vmstat
+ccd_pass                dlc_install             ff_debug                help_advanced           modem                   rollback                shell                   systrace                upload_crashes          vsh
 crosh> 
