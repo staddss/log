@@ -477,6 +477,7 @@ USAGE: vmc [
   |  resize <vm name> <size>
   |  list
   |  logs <vm name>
+  |  set-crostini-vm-type <vm type>
   |  share <vm name> <path>
   |  unshare <vm name> <path>
   |  container <vm name> <container name> [ (<image server> <image alias>) | (<rootfs path> <metadata path>) ] [--privileged <true/false>] [--timeout PARAM]

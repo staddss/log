@@ -123,9 +123,9 @@ chrome://personalization
 chrome://policy
 chrome://power
 chrome://predictors
+chrome://prefs-internals
 chrome://print
 chrome://print-management
-chrome://privacy-sandbox-dialog
 chrome://privacy-sandbox-internals
 chrome://private-aggregation-internals
 chrome://process-internals
@@ -178,6 +178,7 @@ chrome://view-cert
 chrome://vm
 chrome://watermark
 chrome://web-app-internals
+chrome://webnn-internals
 chrome://webrtc-internals
 chrome://webui-browser
 chrome://webui-toolbar.top-chrome
@@ -191,6 +192,7 @@ chrome-untrusted://demo-mode-app
 chrome-untrusted://eche-app
 chrome-untrusted://file-manager
 chrome-untrusted://focus-mode-player
+chrome-untrusted://glic
 chrome-untrusted://help-app
 chrome-untrusted://help-app-kids-magazine
 chrome-untrusted://lens
@@ -200,7 +202,6 @@ chrome-untrusted://media-app
 chrome-untrusted://ntp-microsoft-auth
 chrome-untrusted://os-feedback
 chrome-untrusted://print
-chrome-untrusted://privacy-sandbox-dialog
 chrome-untrusted://projector
 chrome-untrusted://projector-annotator
 chrome-untrusted://read-anything-side-panel.top-chrome
@@ -211,8 +212,10 @@ Internal debugging pages are currently disabled.
 
 chrome://actor-internals
 chrome://autofill-ml-internals
+chrome://chrome-finds-internals
 chrome://color-pipeline-internals
 chrome://commerce-internals
+chrome://content-annotator-internals
 chrome://data-sharing-internals
 chrome://discards
 chrome://download-internals
@@ -220,7 +223,6 @@ chrome://family-link-user-internals
 chrome://history-clusters-internals
 chrome://infobar-internals
 chrome://interstitials
-chrome://legion-internals
 chrome://local-state
 chrome://location-internals
 chrome://media-router-internals
@@ -229,6 +231,7 @@ chrome://network-errors
 chrome://omnibox
 chrome://on-device-internals
 chrome://optimization-guide-internals
+chrome://private-ai-internals
 chrome://profile-internals
 chrome://regional-capabilities-internals
 chrome://safe-browsing

@@ -3,17 +3,17 @@
 growth-campaigns - バージョン: 1.0.20260128.0
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1595
-ステータス - 更新完了
+PKI Metadata - バージョン: 1620
+ステータス - 最新
 アップデートを確認
 App Provisioning - バージョン: 1708983019
 ステータス - 最新
 アップデートを確認
-Subresource Filter Rules - バージョン: 9.65.0
+Subresource Filter Rules - バージョン: 9.66.0
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2026.2.26.121
-ステータス - 更新完了
+Crowd Deny - バージョン: 2026.3.26.61
+ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
 ステータス - 最新
@@ -27,10 +27,10 @@ Related Website Sets - バージョン: 2025.7.24.0
 Amount Extraction Heuristic Regexes - バージョン: 4
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 10372
-ステータス - 更新完了
+CRLSet - バージョン: 10427
+ステータス - 最新
 アップデートを確認
-Iwa Key Distribution - バージョン: 2026.2.2.1
+Iwa Key Distribution - バージョン: 2026.3.10.1
 ステータス - 最新
 アップデートを確認
 Chrome App Deprecation Allowlist - バージョン: 0.0.0.0
@@ -45,8 +45,8 @@ Safety Tips - バージョン: 3091
 File Type Policies - バージョン: 145.0.7584.0
 ステータス - 最新
 アップデートを確認
-Trust Token Key Commitments - バージョン: 2026.2.25.1
-ステータス - 更新完了
+Trust Token Key Commitments - バージョン: 2026.3.23.1
+ステータス - 最新
 アップデートを確認
 MEI Preload - バージョン: 1.1.0.3
 ステータス - 最新
@@ -54,8 +54,8 @@ MEI Preload - バージョン: 1.1.0.3
 Origin Trials - バージョン: 1.0.0.19
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 633
-ステータス - 更新完了
+Optimization Hints - バージョン: 643
+ステータス - 最新
 アップデートを確認
 Privacy Sandbox Attestations - バージョン: 2025.7.18.0
 ステータス - 最新
@@ -72,6 +72,6 @@ Widevine Content Decryption Module - バージョン: 4.10.2662.3
 Zxcvbn Data Dictionaries - バージョン: 3
 ステータス - 最新
 アップデートを確認
-Probabilistic Reveal Tokens - バージョン: 8.5419.4434
-ステータス - 更新完了
+Captcha Providers - バージョン: 8.5419.4434
+ステータス - 最新
 アップデートを確認
