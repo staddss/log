@@ -165,6 +165,7 @@ chrome://system
 chrome://tab-group-home
 chrome://tab-search.top-chrome
 chrome://tab-strip.top-chrome
+chrome://tabs-from-other-devices.top-chrome
 chrome://terms
 chrome://topics-internals
 chrome://traces
@@ -182,6 +183,7 @@ chrome://webnn-internals
 chrome://webrtc-internals
 chrome://webui-browser
 chrome://webui-toolbar.top-chrome
+chrome-untrusted://ai-overlay-dialog
 chrome-untrusted://boca-app
 chrome-untrusted://camera-app
 chrome-untrusted://class-tools-remote-display
