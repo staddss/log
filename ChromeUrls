@@ -1,6 +1,7 @@
 List of Chrome URLs
 chrome://access-code-cast
 chrome://accessibility
+chrome://accessibility-annotator-info
 chrome://accessory-update
 chrome://account-manager-error
 chrome://account-migration-welcome
@@ -51,6 +52,7 @@ chrome://dino
 chrome://dlp-internals
 chrome://downloads
 chrome://drive-internals
+chrome://drive-picker-host
 chrome://eche-app
 chrome://emoji-picker
 chrome://enterprise-reporting
@@ -66,7 +68,6 @@ chrome://floating-workspace
 chrome://focus-mode-media
 chrome://gcm-internals
 chrome://glic
-chrome://glic-fre
 chrome://gpu
 chrome://graduation
 chrome://growth-internals
@@ -164,7 +165,6 @@ chrome://sys-internals
 chrome://system
 chrome://tab-group-home
 chrome://tab-search.top-chrome
-chrome://tab-strip.top-chrome
 chrome://tabs-from-other-devices.top-chrome
 chrome://terms
 chrome://topics-internals
@@ -191,6 +191,7 @@ chrome-untrusted://compose
 chrome-untrusted://crosh
 chrome-untrusted://data-sharing
 chrome-untrusted://demo-mode-app
+chrome-untrusted://drive-picker-host
 chrome-untrusted://eche-app
 chrome-untrusted://file-manager
 chrome-untrusted://focus-mode-player
@@ -212,6 +213,7 @@ chrome-untrusted://terminal
 Internal Debugging Page URLs
 Internal debugging pages are currently disabled.
 
+chrome://accessibility-annotator-internals
 chrome://actor-internals
 chrome://autofill-ml-internals
 chrome://chrome-finds-internals
@@ -223,6 +225,7 @@ chrome://discards
 chrome://download-internals
 chrome://family-link-user-internals
 chrome://history-clusters-internals
+chrome://indigo-internals
 chrome://infobar-internals
 chrome://interstitials
 chrome://local-state
@@ -237,6 +240,7 @@ chrome://private-ai-internals
 chrome://profile-internals
 chrome://regional-capabilities-internals
 chrome://safe-browsing
+chrome://subresource-filter-internals
 chrome://tab-strip-internals
 chrome://tracing
 chrome://ukm

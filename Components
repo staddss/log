@@ -1,18 +1,21 @@
 コンポーネント
-コンポーネント (25)
+コンポーネント (26)
+Optimization Guide On DeviceModels Manifest - バージョン: 0.0.0.0
+ステータス - 最新
+アップデートを確認
 growth-campaigns - バージョン: 1.0.20260128.0
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1649
+PKI Metadata - バージョン: 1679
 ステータス - 最新
 アップデートを確認
 App Provisioning - バージョン: 1708983019
 ステータス - 最新
 アップデートを確認
-Subresource Filter Rules - バージョン: 9.67.0
+Subresource Filter Rules - バージョン: 9.68.0
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2026.4.23.60
+Crowd Deny - バージョン: 2026.5.18.61
 ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
@@ -27,10 +30,10 @@ Related Website Sets - バージョン: 2025.7.24.0
 Amount Extraction Heuristic Regexes - バージョン: 4
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 10487
+CRLSet - バージョン: 10546
 ステータス - 最新
 アップデートを確認
-Iwa Key Distribution - バージョン: 2026.4.20.1
+Iwa Key Distribution - バージョン: 2026.5.12.1
 ステータス - 最新
 アップデートを確認
 Chrome App Deprecation Allowlist - バージョン: 0.0.0.0
@@ -54,7 +57,7 @@ MEI Preload - バージョン: 1.1.0.3
 Origin Trials - バージョン: 1.0.0.19
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 661
+Optimization Hints - バージョン: 677
 ステータス - 最新
 アップデートを確認
 Privacy Sandbox Attestations - バージョン: 2025.7.18.0

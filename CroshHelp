@@ -251,7 +251,6 @@ gesture_prop [ devices | list <device ID> | get <device ID> <property name> | se
       (https://dbus.freedesktop.org/doc/dbus-send.1.html#description), and
       should either be arrays or strings. For example:
       $ gesture_prop set 12 "Mouse CPI" array:double:500
-      $ gesture_prop set 12 "Log Path" string:/tmp/foo.txt
 
 help [command]  
   Display general help, or details for a specific command.
@@ -476,7 +475,7 @@ USAGE: vmc [
   |  inspect-backup <file name> [<removable storage name>]
   |  resize <vm name> <size>
   |  list
-  |  logs <vm name>
+  |  logs <vm name> [<output file name>]
   |  set-crostini-vm-type <vm type>
   |  share <vm name> <path>
   |  unshare <vm name> <path>
@@ -486,7 +485,6 @@ USAGE: vmc [
   |  usb-detach <vm name> <port>
   |  usb-list <vm name>
   |  key-attach <vm name> <hidraw path>
-  |  pvm.send-problem-report [-n <vm name>] [-e <reporter's email>] <description of the problem>
   |  --help | -h
 ]
 vmstat [options]
