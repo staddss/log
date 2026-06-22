@@ -206,7 +206,7 @@ Chromebox OPS	2032 年 6 月
 Chromebox P1	2031 年 6 月
 Chromebox Enterprise P1	2031 年 6 月
 Chromebase Mini	2022 年 2 月
-Ascon
+アスコン
 プロダクト	自動更新期限
 Chromebook 11A	2029 年 6 月
 ASUS
@@ -560,6 +560,7 @@ Chromebook 14a-na0	2029 年 6 月
 Chromebook 14a-na1	2031 年 6 月
 Chromebook 14a-ne0	2029 年 6 月
 Chromebook 14a-nd0	2031 年 6 月
+Chromebook 14a-nm0xxx	2036 年 6 月
 Chromebook 14b-nb0	2031 年 6 月
 Chromebook 14b-na0	2031 年 6 月
 Chromebook 14 インチ 14a-nk0xxx	2035 年 6 月
@@ -648,7 +649,7 @@ Pro c645 Chromebook Enterprise	2031 年 6 月
 Imago
 プロダクト	自動更新期限
 Chromebox OPS	2032 年 6 月
-Jenesis Co., LTD.
+JENESIS株式会社
 プロダクト	自動更新期限
 aiwa Chromebook S11	2033 年 6 月
 JOI
@@ -764,7 +765,7 @@ Medion
 プロダクト	自動更新期限
 Chromebook S2015	2020 年 6 月
 Chromebook Akoya S2013	2020 年 6 月
-MouseComputer Co.,Ltd.
+株式会社マウスコンピューター
 プロダクト	自動更新期限
 Chromebook U1-DAU01GY-A	2033 年 6 月
 Multilaser
@@ -803,6 +804,9 @@ Chromebook Y1 Gen3A	2031 年 6 月
 Chromebook Y2	2029 年 6 月
 Chromebook Y3	2031 年 6 月
 Chromebook Y4	2033 年 6 月
+Newline
+プロダクト	自動更新期限
+Chromebox OPS	2032 年 6 月
 Nexian
 プロダクト	自動更新期限
 Chromebook 11.6"	2020 年 6 月
@@ -864,11 +868,13 @@ Chromebook Eduline	2027 年 6 月*
 Chromebook Eduline（MTK）	2027 年 6 月*
 Chromebook Eduline360	2027 年 6 月*
 Prowise Chromebook 360 G1	2031 年 6 月
+Chromebox OPS	2032 年 6 月
 PT Supertone
 プロダクト	自動更新期限
 SPC Chromebook V1	2031 年 6 月
 SPC Chromebook X1 Mini	2029 年 6 月
 SPC Chromebook Z1 Mini	2031 年 6 月
+SPC Chromebox OPS	2032 年 6 月
 Samsung
 プロダクト	自動更新期限
 Chromebook Series 5	2016 年 6 月
@@ -943,6 +949,9 @@ Chromebook 11	2020 年 6 月
 Chromebook 11C	2027 年 6 月*
 Chromebook 360	2022 年 6 月
 Chromebook 360C	2027 年 6 月*
+Wacebo
+プロダクト	自動更新期限
+Chromebox OPS	2032 年 6 月
 WS
 プロダクト	自動更新期限
 Chromebook A101	2029 年 6 月

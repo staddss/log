@@ -1,7 +1,6 @@
 List of Chrome URLs
 chrome://access-code-cast
 chrome://accessibility
-chrome://accessibility-annotator-info
 chrome://accessory-update
 chrome://account-manager-error
 chrome://account-migration-welcome
@@ -14,13 +13,13 @@ chrome://arc-overview-tracing
 chrome://arc-power-control
 chrome://attribution-internals
 chrome://autofill-internals
+chrome://batch-upload
 chrome://blob-internals
 chrome://bluetooth-internals
 chrome://bluetooth-pairing
 chrome://bookmarks
 chrome://bookmarks-side-panel.top-chrome
 chrome://borealis-credits
-chrome://borealis-installer
 chrome://borealis-motd
 chrome://camera-app
 chrome://cast-feedback
@@ -68,6 +67,7 @@ chrome://floating-workspace
 chrome://focus-mode-media
 chrome://gcm-internals
 chrome://glic
+chrome://glic-experimental-opt-in
 chrome://gpu
 chrome://graduation
 chrome://growth-internals
@@ -120,6 +120,7 @@ chrome://parent-access
 chrome://password-change
 chrome://password-manager
 chrome://password-manager-internals
+chrome://personal-context-notice
 chrome://personalization
 chrome://policy
 chrome://power
@@ -213,13 +214,13 @@ chrome-untrusted://terminal
 Internal Debugging Page URLs
 Internal debugging pages are currently disabled.
 
-chrome://accessibility-annotator-internals
 chrome://actor-internals
 chrome://autofill-ml-internals
 chrome://chrome-finds-internals
 chrome://color-pipeline-internals
 chrome://commerce-internals
 chrome://content-annotator-internals
+chrome://context-hub
 chrome://data-sharing-internals
 chrome://discards
 chrome://download-internals
@@ -232,10 +233,12 @@ chrome://local-state
 chrome://location-internals
 chrome://media-router-internals
 chrome://memory-internals
+chrome://multistep-filter-internals
 chrome://network-errors
 chrome://omnibox
 chrome://on-device-internals
 chrome://optimization-guide-internals
+chrome://personal-context-internals
 chrome://private-ai-internals
 chrome://profile-internals
 chrome://regional-capabilities-internals
