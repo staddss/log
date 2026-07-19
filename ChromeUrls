@@ -110,6 +110,7 @@ chrome://newtab-footer
 chrome://notification-tester
 chrome://ntp-tiles-internals
 chrome://office-fallback
+chrome://omnibox-everywhere.top-chrome
 chrome://omnibox-popup.top-chrome
 chrome://oobe
 chrome://os-credits
@@ -128,7 +129,6 @@ chrome://predictors
 chrome://prefs-internals
 chrome://print
 chrome://print-management
-chrome://privacy-sandbox-internals
 chrome://private-aggregation-internals
 chrome://process-internals
 chrome://profile-internals
@@ -177,7 +177,6 @@ chrome://usb-internals
 chrome://vc-background
 chrome://version
 chrome://view-cert
-chrome://vm
 chrome://watermark
 chrome://web-app-internals
 chrome://webnn-internals
@@ -221,6 +220,7 @@ chrome://color-pipeline-internals
 chrome://commerce-internals
 chrome://content-annotator-internals
 chrome://context-hub
+chrome://contextual-cueing-internals
 chrome://data-sharing-internals
 chrome://discards
 chrome://download-internals
@@ -258,6 +258,19 @@ The following URLs are for debugging purposes only. Because they crash or hang t
 chrome://badcastcrash
 chrome://inducebrowsercrashforrealz
 chrome://inducebrowserdcheckforrealz
+chrome://uithreadhang
+chrome://crash/browser/member-dereference-after-free
+chrome://crash/browser/heap-overflow
+chrome://crash/browser/use-after-free
+chrome://crash/browser/heap-underflow
+chrome://crash/gpu/member-dereference-after-free
+chrome://crash/gpu/heap-overflow
+chrome://crash/gpu/use-after-free
+chrome://crash/gpu/heap-underflow
+chrome://crash/renderer/member-dereference-after-free
+chrome://crash/renderer/heap-overflow
+chrome://crash/renderer/use-after-free
+chrome://crash/renderer/heap-underflow
 chrome://crash
 chrome://crash/rust
 chrome://crashdump

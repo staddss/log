@@ -69,7 +69,7 @@ Chromebook 315（CB315-4H、CB315-4HT）	2031 年 6 月
 Chromebook 315（CB315-5H、CB315-5HT）	2033 年 6 月
 Chromebook 315（CB315-6H、CB315-6HT、CB315-6H-TCO、CB315-6HT-TCO）	2035 年 6 月
 Chromebook 315（CB315-7H、CB315-7HT）	2033 年 6 月
-Chromebook 315（CB315-8H, CB315-8HT）	2036 年 1 月
+Chromebook 315（CB315-8H、CB315-8HT）	2036 年 1 月
 Chromebook 317（CB317-1H、CB317-1HT）	2031 年 6 月
 Chromebook 511（C734、C734T、C733-R、C733T-R）	2031 年 6 月
 Chromebook 511（C736、C736T、C736L、C736LT）	2033 年 6 月
@@ -86,7 +86,6 @@ Chromebook 516 GE（CBG516-1H）	2032 年 6 月
 Chromebook 712（C871、C871T）	2030 年 6 月
 Chromebook 714（CB714-1W、CB714-1WT）	2028 年 6 月*
 Chromebook 715（CB715-1W、CB715-1WT）	2028 年 6 月*
-Chromebook CXI6	2032 年 6 月
 Chromebook Enterprise 13（CB713-1W）	2028 年 6 月
 Chromebook Enterprise 714（CB714-1W、CB714-1WT）	2028 年 6 月
 Chromebook Enterprise 715（CB715-1WT）	2028 年 6 月
@@ -173,6 +172,7 @@ Chromebox CXI2	2021 年 6 月
 Chromebox CXI3、Chromebox Enterprise CXI3	2028 年 6 月
 Chromebox CXI4、Chromebox Enterprise CXI4	2030 年 6 月
 Chromebox CXI5	2032 年 6 月
+Chromebox CXI6	2034 年 6 月
 Chromebox Mini CXM1	2031 年 6 月
 Chromebox Mini CXM2（TWL）	2035 年 6 月
 Chromebox Mini Enterprise CXM1	2031 年 6 月
@@ -267,16 +267,16 @@ Chromebook CX14（CX1405CTA）	2035 年 6 月
 Chromebook CX1405CTAZ	2033 年 6 月
 Chromebook CX1505CTAZ	2033 年 6 月
 Chromebook CX34（CX3402CBA）	2032 年 6 月
-Chromebook CZ11（CZ1104C）	2036 年 1 月
 Chromebook CZ11（CZ1104CM2A）	2033 年 6 月
-Chromebook CZ12（CZ1204C）	2036 年 1 月
+Chromebook CZ11（CZ1104CM4A）	2036 年 1 月
 Chromebook CZ12（CZ1204CM2A）	2033 年 6 月
+Chromebook CZ12（CZ1204CM4A）	2036 年 1 月
 Chromebook CB34 Flip（CB3401、CB3401FBA）	2032 年 6 月
 Chromebook CX34 Flip（CX3401、CX3401FBA）	2032 年 6 月
-Chromebook CZ11 Flip（CZ1104F）	2036 年 1 月
 Chromebook CZ11 Flip（CZ1104FM2A）	2033 年 6 月
-Chromebook CZ12 Flip（CZ1204F）	2036 年 1 月
+Chromebook CZ11 Flip（CZ1104FM4A）	2036 年 1 月
 Chromebook CZ12 Flip（CZ1204FM2A）	2033 年 6 月
+Chromebook CZ12 Flip（CZ1204FM4A）	2036 年 1 月
 Chromebook Enterprise CB34 Flip（CB3401）	2032 年 6 月
 Chromebook Enterprise CL14（CM1405）	2036 年 6 月
 Chromebook Enterprise CL14（CM1406）	2036 年 6 月
@@ -285,10 +285,10 @@ Chromebook Enterprise CM14（CM1405）	2036 年 6 月
 Chromebook Enterprise CM14（CM1406）	2036 年 6 月
 Chromebook Enterprise CM15（CM1505）	2036 年 6 月
 Chromebook Enterprise CX34 Flip（CX3401）	2032 年 6 月
-Chromebook Enterprise CZ11（CZ1104C）	2036 年 1 月
-Chromebook Enterprise CZ11 Flip（CZ1104F）	2036 年 1 月
-Chromebook Enterprise CZ12（CZ1204C）	2036 年 1 月
-Chromebook Enterprise CZ12 Flip（CZ1204F）	2036 年 1 月
+Chromebook Enterprise CZ11（CZ1104CM4A）	2036 年 1 月
+Chromebook Enterprise CZ11 Flip（CZ1104FM4A）	2036 年 1 月
+Chromebook Enterprise CZ12（CZ1204CM4A）	2036 年 1 月
+Chromebook Enterprise CZ12 Flip（CZ1204FM4A）	2036 年 1 月
 Chromebook Flip CB5（CB5500FEA）	2031 年 6 月
 Chromebook Flip CX5（CX5500FEA）	2031 年 6 月
 Chromebook Flip CX5（CX5601FBA）	2032 年 6 月
@@ -981,4 +981,5 @@ ChromeOS の長期サポート（LTS）
 ChromeOS を以前のバージョンにロールバックする
 ©2026 Google  プライバシー ポリシー  利用規約
 言語
+
 
