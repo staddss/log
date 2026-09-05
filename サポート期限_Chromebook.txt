@@ -89,6 +89,7 @@ Chromebook 715（CB715-1W、CB715-1WT）	2028 年 6 月*
 Chromebook Enterprise 13（CB713-1W）	2028 年 6 月
 Chromebook Enterprise 714（CB714-1W、CB714-1WT）	2028 年 6 月
 Chromebook Enterprise 715（CB715-1WT）	2028 年 6 月
+Chromebook Enterprise Plus 516（CBE596-1、CBE596-1T、CBE596-1-TCO、CBE596-1T-TCO）	2033 年 6 月
 Chromebook Enterprise Spin 13（CP713-1WN）	2028 年 6 月
 Chromebook Enterprise Spin 513（R841T、R841LT）	2031 年 6 月
 Chromebook Enterprise Spin 514（CP514-1W、CP514-1WH）	2031 年 6 月
@@ -168,6 +169,7 @@ Chromebook Tab 510（D652N）	2031 年 6 月
 Chromebook Vero 514（CBV514-1H、CBV514-1HT）	2032 年 6 月
 Chromebook Vero 712（CV872、CV872T）	2032 年 6 月
 Chromebox	2019 年 9 月
+Chromebox CX7、Chromebox Enterprise CX7	2034 年 6 月
 Chromebox CXI2	2021 年 6 月
 Chromebox CXI3、Chromebox Enterprise CXI3	2028 年 6 月
 Chromebox CXI4、Chromebox Enterprise CXI4	2030 年 6 月
@@ -233,7 +235,7 @@ Chromebook CL14（CM1405）	2036 年 6 月
 Chromebook CL14（CM1406）	2036 年 6 月
 Chromebook CL14 Flip（CL1402F）	2033 年 6 月
 Chromebook CL15（CM1505）	2036 年 6 月
-Chromebook CL32 Detachable	2036 年 6 月
+Chromebook CL32 Detachable（CL3206DM4A）	2036 年 6 月
 Chromebook CM14（CM1405）	2036 年 6 月
 Chromebook CM14（CM1406）	2036 年 6 月
 Chromebook CM14 Flip（CM1402F）	2033 年 6 月
@@ -241,7 +243,7 @@ Chromebook CM14 Flip（CM1402F）	2033 年 6 月
 Chromebook CM15（CM1505）	2036 年 6 月
 Chromebook CM30	2033 年 6 月
 Chromebook CM30 Detachable（CM3001）	2033 年 6 月
-Chromebook CM32 Detachable	2030 年 6 月
+Chromebook CM32 Detachable（CM3206DM4A）	2036 年 6 月
 Chromebook CM34 Flip	2033 年 6 月
 Chromebook CR1（CR1100CKA）	2031 年 6 月
 Chromebook CR11（CR1104C）	2033 年 6 月
@@ -349,6 +351,7 @@ Chromebox 3（CN65）	2028 年 6 月
 Chromebox 4（CN66）	2030 年 6 月
 Chromebox 5（CN67）	2032 年 6 月
 Chromebox 5a	2032 年 6 月
+Chromebox 6a	2034 年 6 月
 Chromebox Enterprise 5（CN67）	2032 年 6 月
 Chromebox Enterprise 5a	2032 年 6 月
 CX1405CKA、CB1405CKA	2031 年 6 月
@@ -373,6 +376,7 @@ Bobicus
 Chromebook 11	2021 年 9 月
 Centerm
 プロダクト	自動更新期限
+Chromebook M311A	2033 年 6 月
 Chromebook M610	2031 年 6 月
 Chromebook M612A	2033 年 6 月
 Chromebook M612B	2033 年 6 月
@@ -689,6 +693,7 @@ Chromebook Enterprise i（14"、11）	2035 年 6 月
 Chromebook Enterprise m（14"、11）	2036 年 6 月
 Chromebook i（14"、11）	2035 年 6 月
 Chromebook m（14"、11）	2036 年 6 月
+Chromebook m（15"、10）	2036 年 6 月
 Chromebook Plus（14”、10）	2035 年 6 月
 Chromebook Plus（15”、10）	2036 年 1 月
 Chromebook Plus 2-in-1（14”、10）	2033 年 6 月
@@ -855,6 +860,7 @@ Chromebook N2312	2031 年 6 月
 Chromebook N2320	2031 年 6 月
 Chromebook N2420	2033 年 6 月
 Chromebook N2422	2033 年 6 月
+Chromebook N2520	2035 年 6 月
 Promethean
 プロダクト	自動更新期限
 Chromebox	2028 年 6 月
@@ -964,6 +970,7 @@ Chromebook M432-2	2031 年 6 月
 Chromebook M432-2P	2031 年 6 月
 Chromebook M432-2PT	2031 年 6 月
 Chromebook M432-64	2031 年 6 月
+このページには、AI 技術を使用して翻訳されたコンテンツが含まれている場合があります。AI 翻訳には誤りが含まれている可能性があります。
 
 この記事に関するフィードバックをお寄せください
 この情報は役に立ちましたか？はいいいえ

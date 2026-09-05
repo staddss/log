@@ -1,7 +1,7 @@
 メイン コンテンツにスキップ
 ChromeOS Flex
 認定モデルリスト
-最終更新日: 2026 年 4 月 21 日
+最終更新日: 2026 年 8 月 13 日
 一貫した高品質なエクスペリエンスを確実に提供するため、Google では ChromeOS Flex を使用できるモデルを個別に認定し、そのリストを管理しています。
 
 モデルのステータス
@@ -39,6 +39,7 @@ Acer VN4640G	 認定済み	111	2027
 Advantech
 モデル名	現在のステータス	対象の ChromeOS バージョン（これ以降で認定）	サポートの終了
 Advantech ARK-1125H	 認定済み	123	2030
+Advantech Aures YUNO-K270	  認定済み	150	2032
 Advantech DS-085	 認定済み	103	2030
 Advantech DS-202	 認定済み	127	2029
 Advantech DS-410	 認定済み	110	2029
@@ -160,7 +161,7 @@ Dell Latitude 3400	 認定済み	103	2028
 Dell Latitude 3410	 認定済み	103	2028
 Dell Latitude 3420	 認定済み	103	2030
 Dell Latitude 3440（2014）	 認定済み	103	2026
-Dell Latitude 3440（第 13 世代 Intel）	 認定済み	136	2032
+Dell Latitude 3440（Intel 第 13 世代）	 認定済み	136	2032
 Dell Latitude 3450	 認定済み	103	2027
 Dell Latitude 3460	 認定済み	103	2027
 Dell Latitude 3470	 認定済み	103	2027
@@ -176,6 +177,8 @@ Dell Latitude 5300 2-in-1	 認定済み	103	2028
 Dell Latitude 5310	 認定済み	112	2030
 Dell Latitude 5320	 認定済み	112	2028
 Dell Latitude 5330	 認定済み	136	2030
+Dell Latitude 5340	  認定済み	147	2032
+Dell Latitude 5350	  認定済み	146	2033
 Dell Latitude 5400	 認定済み	103	2028
 Dell Latitude 5410	 認定済み	112	2028
 Dell Latitude 5411	 認定済み	112	2028
@@ -266,6 +269,7 @@ Dell OptiPlex 9020 AIO	 認定済み	103	2026
 Dell OptiPlex 9030 AIO	 認定済み	103	2026
 Dell Pro 24 オールインワン QC24251 Raptor Lake	 認定済み	139	2030
 Dell Pro マイクロ QCM1250	  認定済み	140	2032
+Dell Pro マイクロ シンクライアント Q9M1260	   認定済み	150	2032
 Dell Vostro 15 3568	 認定済み	103	2028
 Dell Vostro 15 5568	 認定済み	132	2028
 Dell Vostro 3401	 認定済み	115	2028
@@ -305,6 +309,8 @@ Engagis
 モデル名	現在のステータス	対象の ChromeOS バージョン（これ以降で認定）	サポートの終了
 Engagis EMP4C	 認定済み	140	2030
 Engagis EMP4C N150	 認定済み	140	2033
+Engagis EMP5C	  認定済み	145	2032
+Engagis EMP5C N150	   認定済み	150	2032
 Engagis EMPi3	 認定済み	140	2030
 Faytech
 モデル名	現在のステータス	対象の ChromeOS バージョン（これ以降で認定）	サポートの終了
@@ -349,6 +355,7 @@ HP Compaq 6300 Pro	 非認定	103	2025
 HP Compaq Elite 8300	 非認定	103	2025
 HP Compaq Pro 6305	 非認定	103	2025
 HP Elite Mini 600 G9	 認定済み	134	2030
+HP Elite mt645 G8 Mobile Thin Client	  認定済み	146	2032
 HP Elite t655 Thin Client	 認定済み	119	2030
 HP EliteBook 630 G9	 認定済み	129	2030
 HP EliteBook 640 G9	 認定済み	138	2030
@@ -358,6 +365,7 @@ HP EliteBook 645 G11	 認定済み	138	2032
 HP Elitebook 650 G5	 認定済み	132	2028
 HP EliteBook 650 G9	 認定済み	129	2030
 HP EliteBook 650 G10	 認定済み	129	2032
+HP EliteBook 660 G11	  認定済み	146	2033
 HP EliteBook 665 G11	 認定済み	138	2032
 HP EliteBook 745 G5	 認定済み	122	2029
 HP EliteBook 745 G6	 認定済み	134	2030
@@ -383,10 +391,13 @@ HP EliteBook 850 G5	 認定済み	119	2028
 HP EliteBook 850 G6	 認定済み	122	2028
 HP EliteBook 850 G7	 認定済み	131	2028
 HP EliteBook 850 G8	 認定済み	134	2029
+HP Elitebook 855 G7	  認定済み	148	2030
 HP EliteBook 8470p	 非認定	103	2025
+HP EliteBook 860 G10	  認定済み	150	2032
 HP EliteBook Folio 9470m	 非認定	103	2025
 HP EliteBook x360 1030 G2	 認定済み	103	2028
 HP EliteBook x360 1040 G7	 認定済み	135	2028
+HP EliteBook x360 1030 G8	  認定済み	150	2030
 HP EliteDesk 705 G1	 非認定	103	2025
 HP EliteDesk 705 G3	 認定済み	103	2028
 HP EliteDesk 705 G4	 認定済み	103	2028
@@ -403,6 +414,7 @@ HP Engage Flex Pro-C	 認定済み	117	2028
 HP Engage Flex Pro G2	 認定済み	116	2030
 HP Engage One	 認定済み	118	2028
 HP Engage One Essential AIO	 認定済み	103	2030
+HP Engage One G2 AIO システム	  認定済み	150	2032
 HP Engage One Pro AIO	 認定済み	103	2030
 HP Engage One Pro G2	 認定済み	137	2030
 HP Engage Go 10	 認定済み	124	2030
@@ -464,9 +476,11 @@ HP ProBook x360 11 G3 EE	 認定済み	103	2028
 HP ProBook x360 11 G4 EE	 認定済み	103	2028
 HP ProBook x360 11 G5 EE	 認定済み	103	2028
 HP ProBook x360 11 G7 EE	 認定済み	112	2029
+HP ProBook Fortis 14 G9	  認定済み	144	2029
 HP ProDesk 400 G1	 認定済み	103	2026
 HP ProDesk 400 G2.5	 認定済み	103	2026
 HP ProDesk 400 G3	 認定済み	132	2028
+HP ProDesk 400 G4	  認定済み	144	2028
 HP ProDesk 400 G5	 認定済み	114	2028
 HP ProDesk 400 G6	 認定済み	116	2028
 HP ProDesk 405 G4	 認定済み	131	2029
@@ -731,6 +745,8 @@ meldCX
 meldCX mCore+ Edge	 認定済み	120	2029
 Microsoft
 モデル名	現在のステータス	対象の ChromeOS バージョン（これ以降で認定）	サポートの終了
+Microsoft Surface Go 2	  認定済み	148	2028
+Microsoft Surface Go 3	  認定済み	148	2028
 Microsoft Surface Laptop SE	 認定済み	103	2028
 Microsoft Surface Pro 3	 認定済み	108	2026
 MicroTouch
@@ -837,6 +853,7 @@ ZOTAC ZP-CI342-AUS	 認定済み	107	2029
 ChromeOS Flex 認定モデルの概要
 Google および関連するマークとロゴは Google LLC の商標です。その他すべての企業名および商品名は関連各社の商標です。
 
+このページには、AI 技術を使用して翻訳されたコンテンツが含まれている場合があります。AI 翻訳には誤りが含まれている可能性があります。
 
 この記事に関するフィードバックをお寄せください
 Help

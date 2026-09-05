@@ -11,7 +11,6 @@ chrome://app-install-dialog
 chrome://app-service-internals
 chrome://arc-overview-tracing
 chrome://arc-power-control
-chrome://attribution-internals
 chrome://autofill-internals
 chrome://batch-upload
 chrome://blob-internals
@@ -19,7 +18,6 @@ chrome://bluetooth-internals
 chrome://bluetooth-pairing
 chrome://bookmarks
 chrome://bookmarks-side-panel.top-chrome
-chrome://borealis-credits
 chrome://borealis-motd
 chrome://camera-app
 chrome://cast-feedback
@@ -82,6 +80,7 @@ chrome://inspect
 chrome://internals
 chrome://internet-config-dialog
 chrome://internet-detail-dialog
+chrome://iwa-dev
 chrome://kerberos-in-browser
 chrome://launcher-internals
 chrome://linux-proxy-config
@@ -129,7 +128,6 @@ chrome://predictors
 chrome://prefs-internals
 chrome://print
 chrome://print-management
-chrome://private-aggregation-internals
 chrome://process-internals
 chrome://profile-internals
 chrome://proximity-auth
@@ -168,7 +166,6 @@ chrome://tab-group-home
 chrome://tab-search.top-chrome
 chrome://tabs-from-other-devices.top-chrome
 chrome://terms
-chrome://topics-internals
 chrome://traces
 chrome://traces-internals
 chrome://translate-internals
@@ -235,6 +232,7 @@ chrome://media-router-internals
 chrome://memory-internals
 chrome://multistep-filter-internals
 chrome://network-errors
+chrome://notebooks-internals
 chrome://omnibox
 chrome://on-device-internals
 chrome://optimization-guide-internals
