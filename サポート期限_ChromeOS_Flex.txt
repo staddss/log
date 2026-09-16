@@ -1,7 +1,7 @@
 メイン コンテンツにスキップ
 ChromeOS Flex
 認定モデルリスト
-最終更新日: 2026 年 8 月 13 日
+最終更新日: 2026 年 9 月 2 日
 一貫した高品質なエクスペリエンスを確実に提供するため、Google では ChromeOS Flex を使用できるモデルを個別に認定し、そのリストを管理しています。
 
 モデルのステータス
@@ -39,6 +39,7 @@ Acer VN4640G	 認定済み	111	2027
 Advantech
 モデル名	現在のステータス	対象の ChromeOS バージョン（これ以降で認定）	サポートの終了
 Advantech ARK-1125H	 認定済み	123	2030
+Advantech Aures YUNO-K215	  認定済み	150	2032
 Advantech Aures YUNO-K270	  認定済み	150	2032
 Advantech DS-085	 認定済み	103	2030
 Advantech DS-202	 認定済み	127	2029
