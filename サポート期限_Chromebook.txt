@@ -9,7 +9,7 @@ ChromeOS デバイス（Chromebook、Chromebox、Chromebase など）は自動�
 ポリシー
 ChromeOS デバイスの自動更新期限は 10 年です。自動更新期限を延長している 2021 年より前のデバイスでは、一部の機能やサービスがサポートされない場合があります。詳しくは、自動更新期限の延長のサポートをご確認ください。
 更新のたびにデバイスのセキュリティが強化されます。プラットフォームのリリース日から 10 年間セキュリティと安定性が自動的に強化されるので、Chromebook をより長期にわたり有効活用できます。
-プラットフォームとは、連携して動作するように設計された一連のコンポーネントのことで、メーカーがデバイスに合わせて選定します。更新後も互換性が保たれるよう、Google は 4 週間ごとにプラットフォーム（プロセッサ、Wi-Fi など）のコンポーネント メーカー各社と協力し、ソフトウェアの開発およびすべての ChromeOS デバイス上でのテストを行っています。
+プラットフォームとは、連携して動作するように設計された一連のコンポーネントのことで、メーカーがデバイスに合わせて選定します。更新後も適合性が保たれるよう、Google は 2 週間ごとにプラットフォーム（プロセッサ、Wi-Fi など）のコンポーネント メーカー各社と協力し、ソフトウェアの開発およびすべての ChromeOS デバイス上でのテストを行っています。
 Chromebook の自動更新期限を過ぎた後も、セキュアモードは引き続きご利用いただけます。Chromebook の起動時に毎回セルフチェックが行われ、システムのなんらかの改ざんや破損が検出されると、通常は自己修復により元の状態に戻ります。
 自動更新を受信している ChromeOS デバイスは、ChromeOS Education Upgrade および ChromeOS Enterprise Upgrade と連携して動作します。最後の自動更新が行われた後は、既存および今後のポリシーが想定どおりに機能しなくなる可能性があるほか、テクニカル サポートの対象外となります。
 プラットフォームのリリース後、ご購入の際の参考になるよう自動更新期限がこのページに公開されます。ご購入にあたっては、自動更新期限をご確認ください。
@@ -203,8 +203,8 @@ Chromebox Mini 2	2031 年 6 月
 Chromebox Education Mini 2	2031 年 6 月
 Chromebox Enterprise 4	2032 年 6 月
 Chromebox Enterprise Mini 2	2031 年 6 月
-Chromebox Enterprise OPS	2032 年 6 月
-Chromebox OPS	2032 年 6 月
+Chromebox Enterprise OPS	2034 年 6 月
+Chromebox OPS	2034 年 6 月
 Chromebox P1	2031 年 6 月
 Chromebox Enterprise P1	2031 年 6 月
 Chromebase Mini	2022 年 2 月
@@ -354,6 +354,7 @@ Chromebox 5a	2032 年 6 月
 Chromebox 6a	2034 年 6 月
 Chromebox Enterprise 5（CN67）	2032 年 6 月
 Chromebox Enterprise 5a	2032 年 6 月
+Chromebox Enterprise 6a	2034 年 6 月
 CX1405CKA、CB1405CKA	2031 年 6 月
 CX1505CKA、CB1505CKA	2031 年 6 月
 Fanless Chromebox（CF40）	2031 年 6 月
@@ -370,7 +371,7 @@ Baicells
 Chromebook BB01	2029 年 6 月
 BenQ
 プロダクト	自動更新期限
-Chromebox OPS TEY1C	2032 年 6 月
+Chromebox OPS TEY1C	2034 年 6 月
 Bobicus
 プロダクト	自動更新期限
 Chromebook 11	2021 年 9 月
@@ -387,8 +388,8 @@ Chromebook Plus M621	2033 年 6 月
 Chromebook Plus Enterprise M621	2033 年 6 月
 Chromebox D661	2032 年 6 月
 Chromebox Enterprise D661	2032 年 6 月
-Chromebox Enterprise OPS OP660	2032 年 6 月
-Chromebox OPS OP660	2032 年 6 月
+Chromebox Enterprise OPS OP660	2034 年 6 月
+Chromebox OPS OP660	2034 年 6 月
 CTL
 プロダクト	自動更新期限
 Chromebook Tablet Tx1 for Education	2023 年 8 月
@@ -425,8 +426,10 @@ Chromebox CBx2	2030 年 6 月
 Chromebox CBx3	2032 年 6 月
 Chromebox Enterprise CBx3	2032 年 6 月
 Chromebox Enterprise CBx3	2032 年 6 月
-Chromebox Enterprise OPS OPx1-3	2032 年 6 月
-Chromebox OPS OPx1-3	2032 年 6 月
+Chromebox Enterprise OPS OPx1-3	2034 年 6 月
+Chromebox Enterprise OPS OPx1-7	2034 年 6 月
+Chromebox OPS OPx1-3	2034 年 6 月
+Chromebox OPS OPx1-7	2034 年 6 月
 Dell
 プロダクト	自動更新期限
 Chromebook 11	2021 年 9 月
@@ -449,6 +452,7 @@ Chromebook 3120 2-in-1	2033 年 6 月
 Chromebook 13（7310）	2021 年 6 月
 Chromebook 13（3380）	2023 年 6 月
 Chromebook 14 C1426M	2036 年 6 月
+Chromebook 14 CC14260	2035 年 6 月
 Chromebook 3400	2029 年 6 月
 Chromebox	2019 年 9 月
 Inspiron Chromebook 14 2-in-1（7486）	2028 年 6 月*
@@ -637,12 +641,18 @@ Fortis Flip G1i 11 Chromebook	2035 年 6 月
 Fortis Flip G1i 11 Chromebook Enterprise	2035 年 6 月
 Fortis Flip G1m 11 Chromebook	2033 年 6 月
 Fortis Flip G1m 11 Chromebook Enterprise	2033 年 6 月
+Fortis Flip G2m 11 Chromebook	2036 年 6 月
+Fortis Flip G2m 11 Chromebook Enterprise	2036 年 6 月
 Fortis G1i 11 Chromebook	2035 年 6 月
 Fortis G1i 11 Chromebook Enterprise	2035 年 6 月
 Fortis G1i 14 Chromebook	2035 年 6 月
 Fortis G1i 14 Chromebook Enterprise	2035 年 6 月
 Fortis G1m 11 Chromebook	2033 年 6 月
 Fortis G1m 11 Chromebook Enterprise	2033 年 6 月
+Fortis G2m 11 Chromebook	2036 年 6 月
+Fortis G2m 11 Chromebook Enterprise	2036 年 6 月
+Fortis G2m 14 Chromebook	2036 年 6 月
+Fortis G2m 14 Chromebook Enterprise	2036 年 6 月
 Pavilion Chromebook 14	2018 年 2 月
 Pro c640 Chromebook	2030 年 6 月
 Pro c640 Chromebook Enterprise	2030 年 6 月
@@ -652,7 +662,7 @@ Pro c645 Chromebook	2031 年 6 月
 Pro c645 Chromebook Enterprise	2031 年 6 月
 Imago
 プロダクト	自動更新期限
-Chromebox OPS	2032 年 6 月
+Chromebox OPS	2034 年 6 月
 JENESIS株式会社
 プロダクト	自動更新期限
 aiwa Chromebook S11	2033 年 6 月
@@ -761,6 +771,7 @@ ThinkCentre M60q Chromebox	2032 年 6 月
 LG
 プロダクト	自動更新期限
 Chromebook 2	2035 年 6 月
+Chromebox OPS CRMQ-1LDGA	2034 年 6 月
 LG Chromebase（22CB25S、22CV241）	2020 年 6 月
 LG Chromebook（11TC50Q、11TG50Q）	2031 年 6 月
 M&A
@@ -811,7 +822,7 @@ Chromebook Y3	2031 年 6 月
 Chromebook Y4	2033 年 6 月
 Newline
 プロダクト	自動更新期限
-Chromebox OPS	2032 年 6 月
+Chromebox OPS	2034 年 6 月
 Nexian
 プロダクト	自動更新期限
 Chromebook 11.6"	2020 年 6 月
@@ -864,7 +875,8 @@ Chromebook N2520	2035 年 6 月
 Promethean
 プロダクト	自動更新期限
 Chromebox	2028 年 6 月
-Chromebox OPS	2032 年 6 月
+Chromebox 3	2032 年 6 月
+Chromebox OPS	2034 年 6 月
 Promethean Chromebox 2	2030 年 6 月
 Prowise
 プロダクト	自動更新期限
@@ -874,13 +886,16 @@ Chromebook Eduline	2027 年 6 月*
 Chromebook Eduline（MTK）	2027 年 6 月*
 Chromebook Eduline360	2027 年 6 月*
 Prowise Chromebook 360 G1	2031 年 6 月
-Chromebox OPS	2032 年 6 月
+Chromebox OPS	2034 年 6 月
 PT Supertone
 プロダクト	自動更新期限
 SPC Chromebook V1	2031 年 6 月
 SPC Chromebook X1 Mini	2029 年 6 月
 SPC Chromebook Z1 Mini	2031 年 6 月
-SPC Chromebox OPS	2032 年 6 月
+SPC Chromebox OPS	2034 年 6 月
+Quanta CL
+プロダクト	自動更新期限
+Bujia 開発版プロダクト	2034 年 6 月
 Samsung
 プロダクト	自動更新期限
 Chromebook Series 5	2016 年 6 月
@@ -905,8 +920,8 @@ Galaxy Chromebook 3 360	2035 年 6 月
 Galaxy Chromebook Go	2031 年 6 月
 さつき
 プロダクト	自動更新期限
-Chromebox OPS	2032 年 6 月
-Chromebox Enterprise OPS	2032 年 6 月
+Chromebox OPS	2034 年 6 月
+Chromebox Enterprise OPS	2034 年 6 月
 Sector 5
 プロダクト	自動更新期限
 E1 Rugged Chromebook	2020 年 6 月
@@ -921,8 +936,8 @@ Dynabook Chromebook C1	2031 年 6 月
 SMART
 プロダクト	自動更新期限
 Chromebox G3	2028 年 6 月
-Chromebox OPS CB13-i3	2032 年 6 月
-Chromebox OPS CB13-i5	2032 年 6 月
+Chromebox OPS CB13-i3	2034 年 6 月
+Chromebox OPS CB13-i5	2034 年 6 月
 Softshop
 プロダクト	自動更新期限
 Arai Nimbus S1 Chromebook Enterprise	2031 年 6 月
@@ -946,7 +961,7 @@ TSM
 Libera-Merdeka Chromebook C100、C110、C120、C150	2031 年 6 月
 ViewSonic
 プロダクト	自動更新期限
-Chromebox OPS	2032 年 6 月
+Chromebox OPS	2034 年 6 月
 NMP660 Chromebox	2028 年 6 月
 NMP760 Chromebox	2030 年 6 月
 Viglen
@@ -957,7 +972,7 @@ Chromebook 360	2022 年 6 月
 Chromebook 360C	2027 年 6 月*
 Wacebo
 プロダクト	自動更新期限
-Chromebox OPS	2032 年 6 月
+Dabliu Chromebox OPS	2034 年 6 月
 WS
 プロダクト	自動更新期限
 Chromebook A101	2029 年 6 月

@@ -1,12 +1,9 @@
 コンポーネント
-コンポーネント (26)
-Actor Safety Lists - バージョン: 9.5220.3721
+コンポーネント (25)
+Actor Safety Lists - バージョン: 9.8200.9609
 ステータス - 最新
 アップデートを確認
 Amount Extraction Heuristic Regexes - バージョン: 4
-ステータス - 最新
-アップデートを確認
-App Provisioning - バージョン: 1708983019
 ステータス - 最新
 アップデートを確認
 Captcha Providers - バージョン: 8.5419.4434
@@ -18,13 +15,13 @@ Certificate Error Assistant - バージョン: 7
 Chrome App Deprecation Allowlist - バージョン: 2026.8.20.1
 ステータス - 最新
 アップデートを確認
-CRLSet - バージョン: 10772
+CRLSet - バージョン: 10894
 ステータス - 最新
 アップデートを確認
-Crowd Deny - バージョン: 2026.9.10.80
+Crowd Deny - バージョン: 2026.11.9.131
 ステータス - 最新
 アップデートを確認
-File Type Policies - バージョン: 145.0.7584.0
+File Type Policies - バージョン: 159.0.8152.0
 ステータス - 最新
 アップデートを確認
 growth-campaigns - バージョン: 1.0.20260128.0
@@ -33,7 +30,7 @@ growth-campaigns - バージョン: 1.0.20260128.0
 Hyphenation - バージョン: 120.0.6050.0
 ステータス - 最新
 アップデートを確認
-Iwa Key Distribution - バージョン: 2026.8.24.1
+Iwa Key Distribution - バージョン: 2026.11.9.1
 ステータス - 最新
 アップデートを確認
 MEI Preload - バージョン: 1.1.0.3
@@ -42,34 +39,34 @@ MEI Preload - バージョン: 1.1.0.3
 OnDeviceHeadSuggest - バージョン: 20251015.822788937.14
 ステータス - 最新
 アップデートを確認
-Optimization Guide On DeviceModels Manifest - バージョン: 1.20260810.11
+Optimization Guide Geolocation Permission Predictions - バージョン: 2026.11.4.1604
 ステータス - 最新
 アップデートを確認
-Optimization Hints - バージョン: 742
+Optimization Guide On DeviceModels Manifest - バージョン: 1.20261101.2
+ステータス - 最新
+アップデートを確認
+Optimization Hints - バージョン: 775
 ステータス - 最新
 アップデートを確認
 Origin Trials - バージョン: 1.0.0.20
 ステータス - 最新
 アップデートを確認
-PKI Metadata - バージョン: 1778
+PKI Metadata - バージョン: 1834
 ステータス - 最新
 アップデートを確認
 Privacy Sandbox Attestations - バージョン: 2025.6.16.0
-ステータス - 更新完了
-アップデートを確認
-Related Website Sets - バージョン: 2025.7.24.0
 ステータス - 最新
 アップデートを確認
-Safety Tips - バージョン: 3091
+Safety Tips - バージョン: 3092
 ステータス - 最新
 アップデートを確認
 Smart Dim - バージョン: 20210201.1
 ステータス - 最新
 アップデートを確認
-Subresource Filter Rules - バージョン: 9.71.0
+Subresource Filter Rules - バージョン: 9.73.1
 ステータス - 最新
 アップデートを確認
-Trust Token Key Commitments - バージョン: 2026.8.3.1
+Trust Token Key Commitments - バージョン: 2026.10.12.1
 ステータス - 最新
 アップデートを確認
 Widevine Content Decryption Module - バージョン: 4.10.2662.3

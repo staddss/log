@@ -18,7 +18,6 @@ chrome://bluetooth-internals
 chrome://bluetooth-pairing
 chrome://bookmarks
 chrome://bookmarks-side-panel.top-chrome
-chrome://borealis-motd
 chrome://camera-app
 chrome://cast-feedback
 chrome://certificate-manager
@@ -88,7 +87,6 @@ chrome://local-files-migration
 chrome://lock-network
 chrome://lock-reauth
 chrome://mall
-chrome://manage-mirrorsync
 chrome://management
 chrome://media-app
 chrome://media-engagement
@@ -211,12 +209,13 @@ Internal debugging pages are currently disabled.
 
 chrome://actor-internals
 chrome://autofill-ml-internals
-chrome://chrome-finds-internals
+chrome://browser-actuator-internals
 chrome://color-pipeline-internals
 chrome://commerce-internals
 chrome://content-settings
 chrome://context-hub
 chrome://contextual-cueing-internals
+chrome://critical-actions-internals
 chrome://data-sharing-internals
 chrome://discards
 chrome://download-internals
@@ -231,7 +230,7 @@ chrome://media-router-internals
 chrome://multistep-filter-internals
 chrome://network-errors
 chrome://notebooks-internals
-chrome://omnibox
+chrome://omnibox-internals
 chrome://on-device-internals
 chrome://optimization-guide-internals
 chrome://page-action-internals
@@ -279,6 +278,9 @@ chrome://gpuhang
 chrome://memory-exhaust
 chrome://memory-pressure-critical
 chrome://memory-pressure-moderate
+chrome://blink-oom
+chrome://blink-oom/worker
+chrome://v8-oom
 chrome://webuijserror
 chrome://quit
 chrome://restart

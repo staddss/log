@@ -142,6 +142,7 @@ Dell Inspiron 15 3531	 認定済み	103	2026
 Dell Inspiron 3280 AIO	 認定済み	103	2028
 Dell Inspiron 3505	 認定済み	103	2030
 Dell Inspiron 3501	 認定済み	103	2030
+Dell Inspiron 5566	 認定済み	152	2028
 Dell Latitude 3120	 認定済み	107	2029
 Dell Latitude 3140	  認定済み	142	2030
 Dell Latitude 3140 2-in-1	  認定済み	143	2032
@@ -154,7 +155,9 @@ Dell Latitude 3190 2-in-1	 認定済み	103	2028
 Dell Latitude 3300	 認定済み	103	2028
 Dell Latitude 3310	 認定済み	115	2028
 Dell Latitude 3330	 非認定	104	2025
+Dell Latitude 3330（2022）	 認定済み	151	2030
 Dell Latitude 3340	 認定済み	103	2026
+Dell Latitude 3340（2023）	 認定済み	151	2032
 Dell Latitude 3350	 認定済み	103	2027
 Dell Latitude 3380	 認定済み	103	2028
 Dell Latitude 3390 2-in-1	 認定済み	103	2028
@@ -221,7 +224,7 @@ Dell Latitude E7440	 認定済み	103	2026
 Dell Latitude E7450	 認定済み	103	2027
 Dell Latitude E7470	 認定済み	103	2027
 Dell Optiplex 3000	 認定済み	134	2030
-Dell OptiPlex 3000 Thin Client	 認定済み	105	2029
+Dell Optiplex 3000 Thin Client	 認定済み	105	2029
 Dell OptiPlex 3010	 非認定	103	2025
 Dell OptiPlex 3011 AIO	 非認定	103	2025
 Dell OptiPlex 3020	 認定済み	103	2026
@@ -270,7 +273,7 @@ Dell OptiPlex 9020 AIO	 認定済み	103	2026
 Dell OptiPlex 9030 AIO	 認定済み	103	2026
 Dell Pro 24 オールインワン QC24251 Raptor Lake	 認定済み	139	2030
 Dell Pro マイクロ QCM1250	  認定済み	140	2032
-Dell Pro マイクロ シンクライアント Q9M1260	   認定済み	150	2032
+Dell Pro Micro Thin Client Q9M1260	   認定済み	150	2032
 Dell Vostro 15 3568	 認定済み	103	2028
 Dell Vostro 15 5568	 認定済み	132	2028
 Dell Vostro 3401	 認定済み	115	2028
@@ -378,6 +381,8 @@ HP EliteBook 830 G6	 認定済み	115	2028
 HP EliteBook 830 G7	 認定済み	137	2028
 HP EliteBook 830 G8	 認定済み	128	2030
 HP Elitebook 835 G8	  認定済み	141	2031
+HP Elitebook 835 G10	  認定済み	151	2033
+HP Elitebook 835 G11	  認定済み	154	2033
 HP EliteBook 840 G1	 認定済み	103	2026
 HP EliteBook 840 G2	 認定済み	103	2027
 HP EliteBook 840 G3	 認定済み	103	2027
@@ -395,6 +400,8 @@ HP EliteBook 850 G8	 認定済み	134	2029
 HP Elitebook 855 G7	  認定済み	148	2030
 HP EliteBook 8470p	 非認定	103	2025
 HP EliteBook 860 G10	  認定済み	150	2032
+HP EliteBook 865 G10	  認定済み	151	2033
+HP EliteBook 865 G11	  認定済み	151	2032
 HP EliteBook Folio 9470m	 非認定	103	2025
 HP EliteBook x360 1030 G2	 認定済み	103	2028
 HP EliteBook x360 1040 G7	 認定済み	135	2028
@@ -505,6 +512,7 @@ HP Pro t550 Thin Client with WiFi	 認定済み	123	2029
 HP RP9 G1	 認定済み	126	2027
 HP Spectre x360 13（2017）	 認定済み	103	2028
 HP Spectre x360 13（2018）	 認定済み	103	2028
+HP Stream 11 ak0012dx	 認定済み	152	2028
 HP Stream 11 Pro G1	 認定済み	103	2026
 HP Stream 11 Pro G2	 認定済み	103	2027
 HP Stream 11 Pro G3	 認定済み	103	2027
@@ -512,6 +520,7 @@ HP Stream 11 Pro G4 EE	 認定済み	103	2028
 HP Stream 11 Pro G5	 認定済み	103	2028
 HP Stream 13	 認定済み	103	2026
 HP Stream 14-ax010nr	 認定済み	103	2027
+HP Stream 14-cb161wm	 認定済み	154	2028
 HP Stream x360 Convertible PC 11	 認定済み	103	2026
 HP t430 Thin Client	 認定済み	103	2028
 HP t520 Thin Client	 認定済み	103	2027
@@ -582,6 +591,7 @@ Lenovo B590	 非認定	103	2025
 Lenovo E40-80	 認定済み	107	2027
 Lenovo IdeaPad D330-10IGL	 認定済み	112	2028
 Lenovo IdeaPad S145	 認定済み	103	2028
+Lenovo IdeaPad 3	 認定済み	152	2028
 Lenovo K14 Gen 1	 認定済み	123	2030
 Lenovo Miix 520	 認定済み	130	2028
 Lenovo N22	 認定済み	103	2027
@@ -601,7 +611,7 @@ Lenovo ThinkCentre M72z AIO	 非認定	103	2025
 Lenovo ThinkCentre M73	 認定済み	103	2026
 Lenovo ThinkCentre M73z	 認定済み	103	2026
 Lenovo ThinkCentre M75n	 認定済み	103	2030
-Lenovo ThinkCentre M75q Gen 2	 認定済み	122	2030
+Lenovo ThinkCentre M75q Gen 2	 認定済み	122	2031
 Lenovo ThinkCentre M75q Gen 5	  認定済み	143	2033
 Lenovo ThinkCentre M78	 非認定	103	2025
 Lenovo ThinkCentre M80q Gen 2	 認定済み	115	2028
@@ -630,6 +640,7 @@ Lenovo Thinkcentre M910q	 認定済み	110	2027
 Lenovo ThinkCentre M920q	 認定済み	103	2028
 Lenovo ThinkCentre M920x	 認定済み	138	2028
 Lenovo ThinkCentre Neo 50a Gen 5	 認定済み	132	2032
+Lenovo ThinkCentre Neo 55a Gen 6	  認定済み	148	2033
 Lenovo ThinkPad 11e G1	 認定済み	103	2026
 Lenovo ThinkPad 11e G2	 認定済み	103	2027
 Lenovo ThinkPad 11e G3	 認定済み	103	2027
@@ -669,6 +680,7 @@ Lenovo ThinkPad T14s Gen 1（AMD）	 認定済み	103	2030
 Lenovo ThinkPad T14 Gen 2（AMD）	 認定済み	125	2030
 Lenovo ThinkPad T14 Gen 2（Intel）	 認定済み	125	2030
 Lenovo ThinkPad T14 Gen 3（Intel）	 認定済み	136	2030
+Lenovo ThinkPad T14 Gen 5（Intel）	  認定済み	148	2033
 Lenovo ThinkPad T14 G4（Intel）	 認定済み	128	2032
 Lenovo ThinkPad T15 Gen 2	 認定済み	107	2030
 Lenovo ThinkPad T430	 非認定	103	2025
@@ -713,6 +725,7 @@ Lenovo ThinkPad Yoga 11e G5	 認定済み	103	2028
 Lenovo ThinkPad Yoga 11e G6	 認定済み	103	2028
 Lenovo ThinkPad Yoga L390	 認定済み	103	2028
 Lenovo V14 G2 ITL	 認定済み	119	2030
+Lenovo V14 G4 AMD	  認定済み	144	2030
 Lenovo V15 G3	 認定済み	127	2030
 Lenovo V130	  認定済み	141	2028
 Lenovo V145	 認定済み	138	2028
